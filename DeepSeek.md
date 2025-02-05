@@ -1,6 +1,6 @@
 # DeepSeek R1: A New Era of Recurrent Language Models
 
-## Imtroduction
+## Introduction
 **DeepSeek R1** is an open-source **Recurrent Language Model (RLM)** that is gaining attention for its efficiency and scalability.
 Unlike traditional Transformer-based models, DeepSeek R1 leverages recurrence, which promises better computational performance and reduced hardware requirements.
 In this post, we will explore DeepSeek R1’s architecture, key features, potential advantages, and the challenges it faces in the AI landscape.
